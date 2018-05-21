@@ -1,0 +1,16 @@
+body{
+	background-color:pink;
+}
+
+.greeting-south {
+	opacity: 0;
+}
+.greeting-eng {
+	opacity: 1;
+}
+.greeting-deu {
+	opacity: 0;
+}
+.greeting-cz {
+	opacity: 0;
+}

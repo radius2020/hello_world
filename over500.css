@@ -1,0 +1,17 @@
+body{
+	background-color:blue;
+}
+
+
+.greeting-south {
+	opacity: 0;
+}
+.greeting-eng {
+	opacity: 0;
+}
+.greeting-deu {
+	opacity: 1;
+}
+.greeting-cz {
+	opacity: 0;
+}
